@@ -1,0 +1,7 @@
+openai-whisper
+opencv-python-headless
+mediapipe
+pydub
+librosa
+numpy
+scenedetect

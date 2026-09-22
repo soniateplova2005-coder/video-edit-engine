@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# media (too large for git; keep locally / in cloud storage)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+
+# model weights / caches
+*.pt
+*.pth
+.cache/
+whisper_cache/
+
+# working output
+/output/
+/work/
